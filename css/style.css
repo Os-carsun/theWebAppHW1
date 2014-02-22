@@ -1,0 +1,30 @@
+.container {
+  margin: auto;
+  width: 70%;
+  height: 100%;
+  text-align: center;
+}
+#header {
+  position: relative;
+  height: 20%;
+  background-color: #b0e0e6;
+}
+.clear {
+  position: relative;
+  top: 20%;
+  height: 70%;
+}
+#footer {
+  position: fixed;
+  top: 95%;
+  background-color: #ff0;
+  height: 5%;
+  width: 70%;
+}
+table,
+th,
+td {
+  border: 1px solid #000;
+  font-size: 150%;
+  align: center;
+}
